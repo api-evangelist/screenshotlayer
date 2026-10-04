@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/screenshotlayer.png
 name: Screenshotlayer
 description: "URL to screenshot"
-url: https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+url: https://screenshotlayer.com
 specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
@@ -39,17 +39,16 @@ apis:
   - name: Screenshotlayer
     description: "URL to screenshot"
     humanURL: https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
-    baseURL: https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
     tags:
       - Photography
     properties:
       - type: Documentation
-        url: https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+        url: https://screenshotlayer.com
 common:
   - type: DomainSecurity
     url: security/screenshotlayer-domain-security.yml
   - type: Website
-    url: https://screenshotlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers
+    url: https://screenshotlayer.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
 maintainers:
